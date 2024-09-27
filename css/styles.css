@@ -10998,9 +10998,10 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
- width: 15rem;
-    height: 16rem;
-    border-radius: 153px;
+  width: 15rem;
+  height: 16rem;
+  border-radius: 153px;
+  object-fit: cover;
 }
 
 @media (min-width: 992px) {
